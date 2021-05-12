@@ -11,8 +11,9 @@ Boba Me is an application which at first, aims to connect western consumers with
 Hence the application attempts to address this issue, by creating an open market platform, where Boba Tea shops and industry can invest to educate western consumers and directly market to them the concept of Boba Me. Features of this application, will mainly become another avenue to collect generalised data across the entire market, to help industry understand the interests of western consumers, and overall sales trends with their competitors. This application, also provides the general consumer with varying interests in the product to gain benefits such as discounts, possible drink combinations, shop information, drink information and many more!
 
 # Project Details
-## Deprecated Project Folder
+## Deprecated Project 
 This is the old version of the project, which is credited to my previous collaborators, and form the old base and foundation of the project to build on top of.
+Check out https://github.com/SENG2021-Boba-Engineers/Project
 
 ## Current Project
 There are two folders:
