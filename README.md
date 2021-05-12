@@ -17,10 +17,10 @@ Check out https://github.com/SENG2021-Boba-Engineers/Project
 
 ## Current Project
 There are two folders:
-    - Sourcecode
-        - Contains all of the frontend and backend sourcecode with minimal documentation to summarise each component
-    - Documentation
-        - Contains detailed overview of all technologies used and design choices made.
+- Sourcecode
+    - Contains all of the frontend and backend sourcecode with minimal documentation to summarise each component
+- Documentation
+    - Contains detailed overview of all technologies used and design choices made.
 
 I hope you all enjoy :).
 
